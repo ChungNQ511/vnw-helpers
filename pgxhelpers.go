@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ChungNQ511/go-pgxhelpers/funcvx"
+	"github.com/ChungNQ511/vnw-helpers/funcvx"
 	"github.com/jackc/pgx/v5/pgtype"
 )
 
